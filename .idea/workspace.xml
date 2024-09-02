@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ed5c536-864e-4a54-a22f-c9bc8286f758" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OperacionesAritmeticas.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Suma_V1_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ed5c536-864e-4a54-a22f-c9bc8286f758" name="Changes" comment="Proyecto suma V1_2 en POO" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,8 +18,25 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JeanTacunan &lt;71549818@continental.edu.pe&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "JeanTacunan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/JeanTacunan/OperacionesAritmeticas.git",
+    "accountId": "ae4b6b10-4d54-42ce-8a59-d921f3067de4"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 0
 }]]></component>
@@ -40,6 +48,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Suma_V1_1.executor": "Run",
+    "Python.Suma_V1_2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
@@ -85,6 +95,57 @@
       <option name="presentableId" value="Default" />
       <updated>1725318121774</updated>
     </task>
+    <task id="LOCAL-00001" summary="Proyecto de suma">
+      <option name="closed" value="true" />
+      <created>1725319050545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725319050545</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Proyecto de suma Version_1">
+      <option name="closed" value="true" />
+      <created>1725320274789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320274789</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Proyecto de suma Version_1">
+      <option name="closed" value="true" />
+      <created>1725320383034</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320383034</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Proyecto suma V1_2 en POO">
+      <option name="closed" value="true" />
+      <created>1725320832463</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725320832463</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Proyecto de suma" />
+    <MESSAGE value="Se añadió suma V1_1" />
+    <MESSAGE value="Proyecto de suma Version_1" />
+    <MESSAGE value="Proyecto suma V1_2 en POO" />
+    <option name="LAST_COMMIT_MESSAGE" value="Proyecto suma V1_2 en POO" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Suma_V1_1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
